@@ -1,0 +1,19 @@
+{
+    "name": "fjborquez/dwight",
+    "description": "Software design patterns for PHP",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Fjborquez\\Dwight\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Francisco Bórquez",
+            "email": "fborquez@outlook.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "~9.5"
+    }
+}
